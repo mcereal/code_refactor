@@ -41,3 +41,5 @@ THEN I find a concise, descriptive title
     5.) p and li tags were all changed to be in a single line
 
     6.) added an id tag for the "search-engine-optimization" div
+
+    7.) changed header div to nav

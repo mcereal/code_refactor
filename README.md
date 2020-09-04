@@ -34,7 +34,7 @@ THEN I find a concise, descriptive title
 
     2.) header div was changed to header
 
-    3.) benfits and content divs were changed to section tags
+    3.) benfits and content divs were changed to main and aside tags
 
     4.) footer div was changed to footer tag
 
@@ -43,3 +43,5 @@ THEN I find a concise, descriptive title
     6.) added an id tag for the "search-engine-optimization" div
 
     7.) changed header div to nav
+
+    8.) 

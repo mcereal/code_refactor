@@ -1,4 +1,4 @@
-## sept-8_code_refactor_HW
+## Code Refactor
 
 ```
 This is the code refactor for bootcampspot 01 HTML CSS Git: Code Refactor assignment.
